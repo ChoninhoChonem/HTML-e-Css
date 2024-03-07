@@ -19,8 +19,8 @@ header {
 }
 
 header > h1 {
-  color: whie;
   padding-top: 20px;
+  font-variant: small-caps;
 }
 
 header > p {
