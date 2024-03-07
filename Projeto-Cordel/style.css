@@ -20,10 +20,12 @@ header {
 
 header > h1 {
   color: whie;
+  padding-top: 20px;
 }
 
 header > p {
-  color: whte;
+  padding-bottom: 20px;
+  
 }
 
 section.normal {
