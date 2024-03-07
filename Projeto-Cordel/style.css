@@ -15,14 +15,15 @@ html, body {
 header {
   background-color: black;
   text-align:center;
+  color: white;
 }
 
 header > h1 {
-  color: white;
+  color: whie;
 }
 
 header > p {
-  color: white;
+  color: whte;
 }
 
 section.normal {
