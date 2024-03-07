@@ -28,7 +28,7 @@ header > p {
   
 }
 
-header > a {
+header > p > a {
   text-decoration:none;
 }
 
