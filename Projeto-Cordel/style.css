@@ -25,8 +25,11 @@ header > h1 {
 
 header > p {
   padding-bottom: 50px;
-  text-decoration: none;
   
+}
+
+header > a {
+  text-decoration:none;
 }
 
 section.normal {
