@@ -49,7 +49,7 @@ header > p > a {
 }
 
 section{
-  font-size: ;
+  font-size: 5vh;
   font-family: var(--fonte3);
   padding-top:10vh;
   padding-bottom: 10vh;
@@ -69,7 +69,8 @@ section.imagem {
 section.imagem > p {
   background-color: #00000050;
   color: white;
-  width: 400px;
+  display: inline-block;
+  padding: 5px;
 }
 
 footer{
