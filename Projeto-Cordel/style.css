@@ -45,6 +45,14 @@ section.normal {
   background-color: white;
 }
 
+section.imagem {
+  background-color: black;
+}
+
+section.imagem > p {
+  background-color: #0000007e;
+}
+
 footer{
   background-color: black;
   text-align-last: center;
