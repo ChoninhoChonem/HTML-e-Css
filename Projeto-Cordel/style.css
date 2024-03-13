@@ -75,6 +75,19 @@ section.imagem > p {
   color: white;
   display: inline-block;
   padding: 3.5px;
+  
+}
+
+section#img1 {
+  background-color: url(../imagens/background001.jpg);
+  
+}
+
+
+seciton#img2 {
+  
+  background-color: url(../imagens/background002.jpg);
+  
 }
 
 footer{
