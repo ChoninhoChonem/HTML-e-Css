@@ -79,14 +79,14 @@ section.imagem > p {
 }
 
 section#img1 {
-  background-color: url(./imagens/background001.jpg);
+  background-image: url(./imagens/background001.jpg);
   
 }
 
 
 seciton#img2 {
   
-  background-color: url(./imagens/background002.jpg);
+  background-image: url(./imagens/background002.jpg);
   
 }
 
