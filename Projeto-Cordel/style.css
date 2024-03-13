@@ -69,6 +69,7 @@ section.normal {
 section.imagem {
   background-color: #515151;
   box-shadow: inset 6px 6px 13px 0px black ;
+  background-size:cover;
 }
 
 section.imagem > p {
@@ -82,7 +83,7 @@ section.imagem > p {
 section#img1 {
   background-image: url('./imagens/background001.jpg');
   background-position: right center;
-  background-size: cover;
+  
   
 }
 
@@ -90,7 +91,7 @@ section#img1 {
 section#img2 {
   
   background-image: url('./imagens/background002.jpg');
-  background-size: cover;
+  
 }
 
 footer{
